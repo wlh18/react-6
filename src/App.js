@@ -33,4 +33,4 @@ const mapStateToProps = reduxState => {
 // }
 
 export default connect(mapStateToProps, {getUser: getUser})(App);
-// export default connect(mapStateToProps, {getUser})(App); equal to line above
+// export default connect(mapStateToProps, mapDispatchToProps or {getUser} passed as second arg)(App); equal to line above
