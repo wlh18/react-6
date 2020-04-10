@@ -1,12 +1,12 @@
-# Redux Two (React Redux)
+# React 6
 
-In this lecture we introduce `react-redux` which is the official bindings for redux in react.
+Lecture Slides: https://slides.com/dmweb/redux-react-redux
 
-## Lecture Slides
+Mini Project: https://github.com/DevMountain/redux-2-mini
 
-https://slides.com/matias_perez/redux-react-redux
+Afternoon Project: https://github.com/DevMountain/redux-2-afternoon
 
-# Student Learning Objectives
+## Student Learning Objectives
 
 ### Redux
 
